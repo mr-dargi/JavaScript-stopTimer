@@ -3,22 +3,22 @@
 
 ## Table of contents
 
-- [Overview] 
+- Overview: 
     Making Stop Watch with JavaScript ;
 
-- [The-challenge] 
+- The-challenge:
     To solve that how should increase number and what method or function should i use was challenge and after some researching i found some code resources to solve my problem.
 
-- [Screenshot]
-    <img src="stopWatchScreenShot" alt="stopWatch ScreenShot" style="width: 100%;">
+- Screenshot:
+    <img src="stopWatchScreenShot.png" alt="stopWatch ScreenShot" style="width: 100%;">
 
-- [Builtwith]
+- Builtwith:
     Html, Css, JavaScript
   
-- [What-I-learned]
+- What-I-learned:
     How should i make stopwatch how should i use setinterval() and describe it, and should i use and describe it clearinterval.
 
-- [Author] 
+- Author:
     Mohammad Reza Dargi
 
 
