@@ -1,0 +1,38 @@
+*, 
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #448aff;
+}
+
+.container {
+  background-color: #fff;
+  width: 40%;
+  min-width: 500px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+.timerDisplay {
+  position: relative;
+  width: 92%;
+  background-color: #fff;
+  left: 4%;
+  padding: 40px 0;
+  font-family: "Roboto mono", monospace;
+  color: #0381bb;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 139, 235, 0.25);
+}
