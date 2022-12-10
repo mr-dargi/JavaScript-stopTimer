@@ -24,7 +24,7 @@
 
 ### Continued development
 
--In next project i will make Pomodora clock with Html, Css, JavaScript.
+-In next project i will make Pomodoro clock with Html, Css, JavaScript.
 
 
 ## Author
